@@ -1,5 +1,5 @@
 # NodeInject_Hook_example
-A hooking example for NodeInject
+A hooking example for NodeInject (An inject tools for injecting js code into electron application): https://github.com/DiamondHunters/NodeInject
 
 ## About `hook.js`
 
